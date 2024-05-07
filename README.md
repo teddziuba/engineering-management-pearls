@@ -50,4 +50,4 @@ You should be able to explain what your team is doing for the next year in 30 se
 ## Hiring
 🦪 **When interviewing other managers, look for situations that don't work out cleanly.**
 
-A weak manager will not admit to you that they "failed". A strong manager will tell you what they learned. My favorite question for this is: _"Tell me about a time that you performance-managed an IC"_. Weak managers will tell you about an IC recovering after a PIP or coaching. Strong managers will tell you about someone they fired, and how they made the call.
+A weak manager will not admit to you that they "failed". A strong manager will tell you what they learned. My favorite question for this is: _"Tell me about a time that you performance-managed an IC"_. Weak managers will tell you about an IC recovering after a PIP or coaching. Strong managers will tell you about someone they fired, and how they made the call. This profession is all about solving problems that don't have great solutions, so look for managers who understand that.
