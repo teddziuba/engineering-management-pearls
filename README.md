@@ -18,6 +18,10 @@ An IC who always has an empathy-provoking excuse about why they are not meeting 
 
 Firing people sucks. It is one of the worst parts of being a manager, unless you're a psychopath. When you start thinking that someone is underperforming, start gathering the evidence. The longer you keep them around out of guilt or uncertainty, the longer the rest of the team learns that this is an acceptable standard.
 
+🦪 **Always try to make your manager look good.**
+
+This doesn't mean singing their praises, it means delivering on your own without their intervention. Find out what success looks like for your manager, then work toward that. It will be easier to get the resources you need.
+
 ## Developing Software
 🦪 **`(number_of_subtasks + 1)` is a strikigly effective method of estimating story points.**
 
@@ -29,4 +33,4 @@ Jira is one of many pieces of software that tries to be everything to everyone, 
 
 🦪 **If your team doesn't have enough to do, you have weak product management.**
 
-You should have a 1-year roadmap that you can explain in 30 seconds. If your team is looking for projects to fill their quarterly dance card, then the product managers that support you are not feeding you.
+You should be able to explain what your team is doing for the next year in 30 seconds. If your team is looking for projects to fill their quarterly dance card, then the product managers that support you are not feeding you.
