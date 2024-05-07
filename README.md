@@ -26,3 +26,7 @@ For a junior team, or a team that is just getting started with an Agile-like met
 🦪 **Just use Jira.**
 
 Jira is one of many pieces of software that tries to be everything to everyone, but one of the few that actually succeeds at it. Engineers all know it. They are comfortable with its warts. Other task trackers aren't worth the trouble.
+
+🦪 **If your team doesn't have enough to do, you have weak product management.**
+
+You should have a 1-year roadmap that you can explain in 30 seconds. If your team is looking for projects to fill their quarterly dance card, then the product managers that support you are not feeding you.
