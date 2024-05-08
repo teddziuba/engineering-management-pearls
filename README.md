@@ -41,7 +41,7 @@ When going out to a bar with your team, stay for one drink, two at most, then le
 You need to be completely above reproach as a people manager. Stay sober and keep your wits about you when in the company of the company. This is not contradictory to the previous pearl: when you are out drinking with co-workers, order a club soda with lime. It looks like a vodka tonic, and nobody will be any the wiser.
 
 
-## Developing Software
+## Developing and Maintaining Software
 🦪 **`(number_of_subtasks + 1)` is a strikigly effective method of estimating story points.**
 
 For a junior team, or a team that is just getting started with an Agile-like methodology, this helps them learn to break down stories into manageable chunks, and the pointing falls out of the decomposition exercise. It will get you off the ground quickly.
@@ -53,6 +53,10 @@ Jira is one of many pieces of software that tries to be everything to everyone, 
 🦪 **If your team doesn't have enough to do, you have weak product management.**
 
 You should be able to explain what your team is doing for the next year in 30 seconds. If your team is looking for projects to fill their quarterly dance card, then the product managers that support you are not feeding you.
+
+🦪 **Look for common on-call trends quarterly at most.**
+
+Your team is smart enough to now the small fixes that yield fewer pages, but the work necessary to solve larger trends is almost always a quarter-plus scoped project. Analyzing trends at the end of every rotation is unlikely to yield useful results, and is not a good use of time.
 
 ## Hiring
 🦪 **When interviewing other managers, look for situations that don't work out cleanly.**
