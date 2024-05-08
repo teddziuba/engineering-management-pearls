@@ -34,6 +34,10 @@ To expand its scope, your team needs strong technical skills _and_ strong intern
 
 The information you convey in this deck is important, but not as important as the effort you put into making it look good. This shows your team that you care about what they are doing enough to spend the time to present it cleanly.
 
+🦪 **People will support you if they don't like you, but they'll never support you if they think you don't like them.**
+
+You can't control whether or not people like you, but you can control your outward opinion of others. When someone believes _you_ dislike _them_, they will avoid you, for fear that you will use any influence you have to harm them.
+
 ## Developing Software
 🦪 **`(number_of_subtasks + 1)` is a strikigly effective method of estimating story points.**
 
