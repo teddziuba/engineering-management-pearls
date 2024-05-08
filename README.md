@@ -10,6 +10,10 @@ The first ten minutes of a weekly 1:1 meeting should be spent building rapport. 
 
 The information you convey in this deck is important, but not as important as the effort you put into making it look good. This shows your team that you care about what they are doing enough to spend the time to present it cleanly.
 
+🦪 **Stay for at most two drinks, then leave.**
+
+When going out to a bar with your team, stay for one drink, two at most, then leave. No matter how good a rapport you have with your direct reports, they need time together without the boss around.
+
 ## Performance
 🦪 **When there is always an excuse, there is always a problem.**
 
@@ -31,10 +35,6 @@ You can't control whether or not people like you, but you can control your outwa
 🦪 **Always try to make your manager look good.**
 
 Brown-nosing is telling your manager how great they are. Smart relationship-building is finding out what success looks like for your manager, then delivering on that, in a way that your manager's manager can see. 
-
-🦪 **Stay for at most two drinks, then leave.**
-
-When going out to a bar with your team, stay for one drink, two at most, then leave. No matter how good a rapport you have with your direct reports, they need time together without the boss around.
 
 🦪 **Don't drink alcohol with co-workers.**
 
