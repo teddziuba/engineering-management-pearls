@@ -69,3 +69,8 @@ A weak manager will not admit to you that they "failed". A strong manager will t
 🦪 **LinkedIn is becoming asymptotically less useful for recruiting.**
 
 LinkedIn suffers from the Tragedy of the Commons, whereby an influx of rational actors, all acting in their own self-interest, dilute the value of the resource. This applies to both applicants _and_ recruiters. The more labor who joins LinkedIn and tries to stand out with cringeposting, the less useful it becomes for recruiters. Conversely, the more recruiters who _only_ use LinkedIn as a discovery channel, the more top talent ignores LinkedIn solicitations. There is a non-zero lower bound to LinkedIn's utility, so don't write it off entirely, but the channel is saturated.
+
+## Remote
+🦪 **Use a dynamic microphone.**
+
+A high-quality dynamic microphone like the Shure SM7B gives you the "smooth podcast voice". This is a way to stand out and project authority in video calls. Condenser microphones, which are the majority of inexpensive microphones sold, pick up a lot of background noise and do not give enough depth to your voice. Don't use Apple AirPods, or any other Bluetooth headset. The Bluetooth channel is highly compressed, and your voice will sound tinny.
