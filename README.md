@@ -56,7 +56,7 @@ You should be able to explain what your team is doing for the next year in 30 se
 
 🦪 **Look for common on-call trends quarterly at most.**
 
-Your team is smart enough to now the small fixes that yield fewer pages, but the work necessary to solve larger trends is almost always a quarter-plus scoped project. Analyzing trends at the end of every rotation is unlikely to yield useful results, and is not a good use of time.
+Your team is smart enough to find the small fixes that yield fewer pages, but the work necessary to solve larger trends is almost always a quarter-plus scoped project. Analyzing trends at the end of every rotation is unlikely to yield useful results, and is not a good use of time.
 
 ## Hiring
 🦪 **When interviewing other managers, look for situations that don't work out cleanly.**
