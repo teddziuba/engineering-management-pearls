@@ -14,6 +14,10 @@ The information you convey in this deck is important, but not as important as th
 
 When going out to a bar with your team, stay for one drink, two at most, then leave. No matter how good a rapport you have with your direct reports, they need time together without the boss around.
 
+🦪 **Don't drink alcohol with co-workers.**
+
+You need to be completely above reproach as a people manager. Stay sober and keep your wits about you when in the company of the company. This is not contradictory to the previous pearl: when you are out drinking with co-workers, order a club soda with lime. It looks like a vodka tonic, and nobody will be any the wiser.
+
 ## Performance
 🦪 **When there is always an excuse, there is always a problem.**
 
@@ -35,10 +39,6 @@ You can't control whether or not people like you, but you can control your outwa
 🦪 **Always try to make your manager look good.**
 
 Brown-nosing is telling your manager how great they are. Smart relationship-building is finding out what success looks like for your manager, then delivering on that, in a way that your manager's manager can see. 
-
-🦪 **Don't drink alcohol with co-workers.**
-
-You need to be completely above reproach as a people manager. Stay sober and keep your wits about you when in the company of the company. This is not contradictory to the previous pearl: when you are out drinking with co-workers, order a club soda with lime. It looks like a vodka tonic, and nobody will be any the wiser.
 
 🦪 **Name identification is a valuable asset.**
 
