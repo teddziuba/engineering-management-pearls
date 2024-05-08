@@ -40,6 +40,9 @@ When going out to a bar with your team, stay for one drink, two at most, then le
 
 You need to be completely above reproach as a people manager. Stay sober and keep your wits about you when in the company of the company. This is not contradictory to the previous pearl: when you are out drinking with co-workers, order a club soda with lime. It looks like a vodka tonic, and nobody will be any the wiser.
 
+🦪 **Name identification is a valuable asset.**
+
+Similar to electoral politics, people can't have an opinion of you if they don't know who you are. This is different from self-promotion (i.e. _"I am Ted and I do amazing things, the most amazing things, bigly, all the time."_) There is no valence attached to name ID. Make sure your leadership-track direct reports understand this.
 
 ## Developing and Maintaining Software
 🦪 **`(number_of_subtasks + 1)` is a strikigly effective method of estimating story points.**
