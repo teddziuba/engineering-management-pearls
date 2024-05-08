@@ -74,3 +74,7 @@ LinkedIn suffers from the Tragedy of the Commons, whereby an influx of rational 
 🦪 **Use a dynamic microphone.**
 
 A high-quality dynamic microphone like the Shure SM7B gives you the "smooth podcast voice". This is a way to stand out and project authority in video calls. Condenser microphones, which are the majority of inexpensive microphones sold, pick up a lot of background noise and do not give enough depth to your voice. Don't use Apple AirPods, or any other Bluetooth headset. The Bluetooth channel is highly compressed, and your voice will sound tinny.
+
+🦪 **Have a recording device on-hand, just in case.**
+
+Reasonably advanced podcasting mixing decks like the Rodecaster Pro II can record the entire audio stream to an SD card by pressing a single button. There is no beep or other notification to other members of the video call, so you can record without their knowledge. This can be useful in a CYA situation, for example, if you are being disciplined for reporting suspected illegal activity. _There are some jurisdictions where it is illegal to record people without their consent._
