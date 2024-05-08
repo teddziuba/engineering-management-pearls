@@ -65,3 +65,7 @@ Your team is smart enough to find the small fixes that yield fewer pages, but th
 🦪 **When interviewing other managers, look for situations that don't work out cleanly.**
 
 A weak manager will not admit to you that they "failed". A strong manager will tell you what they learned. My favorite question for this is: _"Tell me about a time that you performance-managed an IC"_. Weak managers will tell you about an IC recovering after a PIP or coaching. Strong managers will tell you about someone they fired, and how they made the call. This profession is all about solving problems that don't have great solutions, so look for managers who understand that.
+
+🦪 **LinkedIn is becoming asymptotically less useful for recruiting.**
+
+LinkedIn suffers from the Tragedy of the Commons, whereby an influx of rational actors, all acting in their own self-interest, dilute the value of the resource. This applies to both applicants _and_ recruiters. The more labor who joins LinkedIn and tries to stand out with cringeposting, the less useful it becomes for recruiters. Conversely, the more recruiters who _only_ use LinkedIn as a discovery channel, the more top talent ignores LinkedIn solicitations. There is a non-zero lower bound to LinkedIn's utility, so don't write it off entirely, but the channel is saturated.
