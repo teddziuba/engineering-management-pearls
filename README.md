@@ -30,7 +30,7 @@ You can't control whether or not people like you, but you can control your outwa
 
 🦪 **Always try to make your manager look good.**
 
-This doesn't mean singing their praises, it means delivering on your own without their intervention. Find out what success looks like for your manager, then work toward that. It will be easier to get the resources you need.
+Brown-nosing is telling your manager how great they are. Smart relationship-building is finding out what success looks like for your manager, then delivering on that, in a way that your manager's manager can see. 
 
 🦪 **Stay for at most two drinks, then leave.**
 
