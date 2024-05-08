@@ -43,7 +43,7 @@ You can't control whether or not people like you, but you can control your outwa
 
 For a junior team, or a team that is just getting started with an Agile-like methodology, this helps them learn to break down stories into manageable chunks, and the pointing falls out of the decomposition exercise. It will get you off the ground quickly.
 
-🦪 **Just use Jira.**
+🦪 **Jira always wins.**
 
 Jira is one of many pieces of software that tries to be everything to everyone, but one of the few that actually succeeds at it. Engineers all know it. They are comfortable with its warts. Other task trackers aren't worth the trouble.
 
