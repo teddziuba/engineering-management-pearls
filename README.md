@@ -1,10 +1,36 @@
 # Engineering Management Pearls
 Points of wisdom, learned the hard way.
 
-## Managing People
+## Managing Your Team
 🦪 **A 1:1 has a 10-minute decompression zone.**
 
 The first ten minutes of a weekly 1:1 meeting should be spent building rapport. Ask your direct report about something in their personal life, and just let them talk. After that, they will be warm enough to get into a more honest conversation about work.
+
+🦪 **Present a high-quality quarterly kickoff deck, every single quarter.**
+
+The information you convey in this deck is important, but not as important as the effort you put into making it look good. This shows your team that you care about what they are doing enough to spend the time to present it cleanly.
+
+## Performance
+🦪 **When there is always an excuse, there is always a problem.**
+
+An IC who always has an empathy-provoking excuse about why they are not meeting their goals is simply an under-performer. If it happens once, that's just life. Twice is a string of bad luck. Three times is not a coincidence.
+
+🦪 **You will never regret firing somebody too soon.**
+
+Firing people sucks. It is one of the worst parts of being a manager, unless you're a psychopath. When you start thinking that someone is underperforming, start gathering the evidence. The longer you keep them around out of guilt or uncertainty, the longer the rest of the team learns that this is an acceptable standard.
+
+🦪 **Your team is high-performing if it is constantly expanding its scope.**
+
+To expand its scope, your team needs strong technical skills _and_ strong internal leaders. If you are developing both of these, then your team is in the top 10% of performance.
+
+## Politics
+🦪 **People will support you if they don't like you, but they'll never support you if they think you don't like them.**
+
+You can't control whether or not people like you, but you can control your outward opinion of others. When someone believes _you_ dislike _them_, they will avoid you, for fear that you will use any influence you have to harm them.
+
+🦪 **Always try to make your manager look good.**
+
+This doesn't mean singing their praises, it means delivering on your own without their intervention. Find out what success looks like for your manager, then work toward that. It will be easier to get the resources you need.
 
 🦪 **Stay for at most two drinks, then leave.**
 
@@ -14,29 +40,6 @@ When going out to a bar with your team, stay for one drink, two at most, then le
 
 You need to be completely above reproach as a people manager. Stay sober and keep your wits about you when in the company of the company. This is not contradictory to the previous pearl: when you are out drinking with co-workers, order a club soda with lime. It looks like a vodka tonic, and nobody will be any the wiser.
 
-🦪 **When there is always an excuse, there is always a problem.**
-
-An IC who always has an empathy-provoking excuse about why they are not meeting their goals is simply an under-performer. If it happens once, that's just life. Twice is a string of bad luck. Three times is not a coincidence.
-
-🦪 **You will never regret firing somebody too soon.**
-
-Firing people sucks. It is one of the worst parts of being a manager, unless you're a psychopath. When you start thinking that someone is underperforming, start gathering the evidence. The longer you keep them around out of guilt or uncertainty, the longer the rest of the team learns that this is an acceptable standard.
-
-🦪 **Always try to make your manager look good.**
-
-This doesn't mean singing their praises, it means delivering on your own without their intervention. Find out what success looks like for your manager, then work toward that. It will be easier to get the resources you need.
-
-🦪 **Your team is high-performing if it is constantly expanding its scope.**
-
-To expand its scope, your team needs strong technical skills _and_ strong internal leaders. If you are developing both of these, then your team is in the top 10% of performance.
-
-🦪 **Present a high-quality quarterly kickoff deck, every single quarter.**
-
-The information you convey in this deck is important, but not as important as the effort you put into making it look good. This shows your team that you care about what they are doing enough to spend the time to present it cleanly.
-
-🦪 **People will support you if they don't like you, but they'll never support you if they think you don't like them.**
-
-You can't control whether or not people like you, but you can control your outward opinion of others. When someone believes _you_ dislike _them_, they will avoid you, for fear that you will use any influence you have to harm them.
 
 ## Developing Software
 🦪 **`(number_of_subtasks + 1)` is a strikigly effective method of estimating story points.**
