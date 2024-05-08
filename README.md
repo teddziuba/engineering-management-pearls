@@ -1,7 +1,7 @@
 # Engineering Management Pearls
 Points of wisdom, learned the hard way.
 
-## Managing Your Team
+## Relationship with Your Team
 🦪 **A 1:1 has a 10-minute decompression zone.**
 
 The first ten minutes of a weekly 1:1 meeting should be spent building rapport. Ask your direct report about something in their personal life, and just let them talk. After that, they will be warm enough to get into a more honest conversation about work.
