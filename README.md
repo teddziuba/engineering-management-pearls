@@ -18,6 +18,10 @@ When going out to a bar with your team, stay for one drink, two at most, then le
 
 You need to be completely above reproach as a people manager. Stay sober and keep your wits about you when in the company of the company. This is not contradictory to the previous pearl: when you are out drinking with co-workers, order a club soda with lime. It looks like a vodka tonic, and nobody will be any the wiser.
 
+🦪 **The appropriate level of emotional attachment to your direct reports is not zero.**
+
+You need to emotionally invest in your direct reports to have a strong working relationship, but this makes it difficult to balance the needs of the individual with the needs of the company. When that conflict arises, and you are still able to side with the company, feeling pain indicates you're attached at the correct level. For example, if your director asks you to select two direct reports to be cut in a layoff, that should be one of the most painful decisions you have to make, it should keep you up at night, but you should still be able to deliver two names.
+
 ## Performance
 🦪 **When there is always an excuse, there is always a problem.**
 
